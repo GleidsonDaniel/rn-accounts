@@ -5547,6 +5547,11 @@ react-native-screens@^3.2.0:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-3.2.0.tgz#e2c8a4879c72f49af5b49e8859c84978a95d112b"
   integrity sha512-pV4a32neQA69xhVsL9k1J/rM/SiP5zgGHjJsnNVEcuhBu+dlsutT2YFszQN4MgpP2dhHHu1O7DyRSHti+wh7Wg==
 
+react-native-status-bar-height@^2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/react-native-status-bar-height/-/react-native-status-bar-height-2.6.0.tgz#b6afd25b6e3d533c43d0fcdcfd5cafd775592cea"
+  integrity sha512-z3SGLF0mHT+OlJDq7B7h/jXPjWcdBT3V14Le5L2PjntjjWM3+EJzq2BcXDwV+v67KFNJic5pgA26cCmseYek6w==
+
 react-native@0.64.0:
   version "0.64.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.64.0.tgz#c3bde5b638bf8bcf12bae6e094930d39cb942ab7"
